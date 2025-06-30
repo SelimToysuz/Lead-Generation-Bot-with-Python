@@ -39,21 +39,6 @@ This project is an **automated lead generation tool** that collects business con
 
 ---
 
-## 📂 Project Structure
-
-leadgen-bot/
-├── main.py              # Entry point of the app
-├── scraper.py           # Core scraping functions
-├── utils.py             # Helper functions (e.g. email extraction)
-├── database.py          # SQL interaction
-├── logs/                # Log files and error tracking
-│   └── scraper.log
-├── failed_urls.txt      # Automatically populated with failed links
-├── requirements.txt
-└── README.md
-
----
-
 ## 🧪 Test Coverage (Coming soon)
 
 - [ ] Unit tests for scraper functions
